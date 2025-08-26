@@ -1,0 +1,1 @@
+# Pattern-Create-Offset-Buffer-Overflow-Development-Tool-Hands-on-Manual-Educational-Guide-
